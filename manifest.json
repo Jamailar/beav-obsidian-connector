@@ -1,0 +1,9 @@
+{
+  "id": "beav-connector",
+  "name": "Beav Connector",
+  "version": "0.1.0",
+  "minAppVersion": "1.11.4",
+  "description": "Connect a local Obsidian vault to Beav knowledge, search, topics, and authoring workflows.",
+  "author": "Beav",
+  "isDesktopOnly": true
+}
